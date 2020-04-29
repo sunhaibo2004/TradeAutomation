@@ -1,0 +1,22 @@
+<com.rami.driverspecifics.Asset>
+  <name>Bombay30</name>
+  <patternWinLoose class="java.util.Collections$SynchronizedMap" serialization="custom">
+    <java.util.Collections_-SynchronizedMap>
+      <default>
+        <m>
+          <entry>
+            <string>DARK CLOUD</string>
+            <java.lang.Long-array>
+              <long>0</long>
+              <long>0</long>
+            </java.lang.Long-array>
+          </entry>
+        </m>
+        <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+      </default>
+    </java.util.Collections_-SynchronizedMap>
+  </patternWinLoose>
+  <ema26>3650.8499216735754</ema26>
+  <ema12>8331.239070084575</ema12>
+  <ema9>1577.483052292617</ema9>
+</com.rami.driverspecifics.Asset>

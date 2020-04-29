@@ -1,0 +1,14 @@
+<com.rami.driverspecifics.Asset>
+  <name>NIFTYFuture</name>
+  <patternWinLoose class="java.util.Collections$SynchronizedMap" serialization="custom">
+    <java.util.Collections_-SynchronizedMap>
+      <default>
+        <m/>
+        <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+      </default>
+    </java.util.Collections_-SynchronizedMap>
+  </patternWinLoose>
+  <ema26>416.16666666666663</ema26>
+  <ema12>1244.509230769231</ema12>
+  <ema9>100.74436590436594</ema9>
+</com.rami.driverspecifics.Asset>

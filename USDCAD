@@ -1,0 +1,14 @@
+<com.rami.driverspecifics.Asset>
+  <name>USDCAD</name>
+  <patternWinLoose class="java.util.Collections$SynchronizedMap" serialization="custom">
+    <java.util.Collections_-SynchronizedMap>
+      <default>
+        <m/>
+        <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+      </default>
+    </java.util.Collections_-SynchronizedMap>
+  </patternWinLoose>
+  <ema26>0.22903626375200015</ema26>
+  <ema12>0.5050031376977776</ema12>
+  <ema9>0.10644195959043697</ema9>
+</com.rami.driverspecifics.Asset>

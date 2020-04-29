@@ -1,0 +1,14 @@
+<com.rami.driverspecifics.Asset>
+  <name>CHFJPY</name>
+  <patternWinLoose class="java.util.Collections$SynchronizedMap" serialization="custom">
+    <java.util.Collections_-SynchronizedMap>
+      <default>
+        <m/>
+        <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+      </default>
+    </java.util.Collections_-SynchronizedMap>
+  </patternWinLoose>
+  <ema26>22.264291941284785</ema26>
+  <ema12>48.842365817607345</ema12>
+  <ema9>10.346116293477081</ema9>
+</com.rami.driverspecifics.Asset>

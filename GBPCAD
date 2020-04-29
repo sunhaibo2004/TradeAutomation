@@ -1,0 +1,14 @@
+<com.rami.driverspecifics.Asset>
+  <name>GBPCAD</name>
+  <patternWinLoose class="java.util.Collections$SynchronizedMap" serialization="custom">
+    <java.util.Collections_-SynchronizedMap>
+      <default>
+        <m/>
+        <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+      </default>
+    </java.util.Collections_-SynchronizedMap>
+  </patternWinLoose>
+  <ema26>0.3469092737684604</ema26>
+  <ema12>0.7610549756334118</ema12>
+  <ema9>0.16116461124288448</ema9>
+</com.rami.driverspecifics.Asset>

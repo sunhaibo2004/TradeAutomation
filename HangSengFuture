@@ -1,0 +1,14 @@
+<com.rami.driverspecifics.Asset>
+  <name>HangSengFuture</name>
+  <patternWinLoose class="java.util.Collections$SynchronizedMap" serialization="custom">
+    <java.util.Collections_-SynchronizedMap>
+      <default>
+        <m/>
+        <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+      </default>
+    </java.util.Collections_-SynchronizedMap>
+  </patternWinLoose>
+  <ema26>0.0</ema26>
+  <ema12>0.0</ema12>
+  <ema9>0.0</ema9>
+</com.rami.driverspecifics.Asset>

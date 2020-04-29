@@ -1,0 +1,29 @@
+<com.rami.driverspecifics.Asset>
+  <name>ICICIBank</name>
+  <patternWinLoose class="java.util.Collections$SynchronizedMap" serialization="custom">
+    <java.util.Collections_-SynchronizedMap>
+      <default>
+        <m>
+          <entry>
+            <string>DARK CLOUD</string>
+            <java.lang.Long-array>
+              <long>0</long>
+              <long>0</long>
+            </java.lang.Long-array>
+          </entry>
+          <entry>
+            <string>PIERCING PATTERN</string>
+            <java.lang.Long-array>
+              <long>1</long>
+              <long>0</long>
+            </java.lang.Long-array>
+          </entry>
+        </m>
+        <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+      </default>
+    </java.util.Collections_-SynchronizedMap>
+  </patternWinLoose>
+  <ema26>198.05303123153223</ema26>
+  <ema12>451.76217411440706</ema12>
+  <ema9>85.49609379355081</ema9>
+</com.rami.driverspecifics.Asset>

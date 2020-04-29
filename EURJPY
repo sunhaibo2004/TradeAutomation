@@ -1,0 +1,14 @@
+<com.rami.driverspecifics.Asset>
+  <name>EURJPY</name>
+  <patternWinLoose class="java.util.Collections$SynchronizedMap" serialization="custom">
+    <java.util.Collections_-SynchronizedMap>
+      <default>
+        <m/>
+        <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+      </default>
+    </java.util.Collections_-SynchronizedMap>
+  </patternWinLoose>
+  <ema26>27.137641533615405</ema26>
+  <ema12>59.835890397943544</ema12>
+  <ema9>12.611448237901298</ema9>
+</com.rami.driverspecifics.Asset>

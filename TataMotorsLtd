@@ -1,0 +1,22 @@
+<com.rami.driverspecifics.Asset>
+  <name>TataMotorsLtd</name>
+  <patternWinLoose class="java.util.Collections$SynchronizedMap" serialization="custom">
+    <java.util.Collections_-SynchronizedMap>
+      <default>
+        <m>
+          <entry>
+            <string>PIERCING PATTERN</string>
+            <java.lang.Long-array>
+              <long>0</long>
+              <long>0</long>
+            </java.lang.Long-array>
+          </entry>
+        </m>
+        <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+      </default>
+    </java.util.Collections_-SynchronizedMap>
+  </patternWinLoose>
+  <ema26>52.55601781263411</ema26>
+  <ema12>119.95195746964175</ema12>
+  <ema9>22.729424552116257</ema9>
+</com.rami.driverspecifics.Asset>

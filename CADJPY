@@ -1,0 +1,14 @@
+<com.rami.driverspecifics.Asset>
+  <name>CADJPY</name>
+  <patternWinLoose class="java.util.Collections$SynchronizedMap" serialization="custom">
+    <java.util.Collections_-SynchronizedMap>
+      <default>
+        <m/>
+        <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+      </default>
+    </java.util.Collections_-SynchronizedMap>
+  </patternWinLoose>
+  <ema26>20.870666609224248</ema26>
+  <ema12>46.01985713826956</ema12>
+  <ema9>9.700150943349733</ema9>
+</com.rami.driverspecifics.Asset>

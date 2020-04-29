@@ -1,0 +1,14 @@
+<com.rami.driverspecifics.Asset>
+  <name>AUDJPY</name>
+  <patternWinLoose class="java.util.Collections$SynchronizedMap" serialization="custom">
+    <java.util.Collections_-SynchronizedMap>
+      <default>
+        <m/>
+        <mutex class="java.util.Collections$SynchronizedMap" reference="../../.."/>
+      </default>
+    </java.util.Collections_-SynchronizedMap>
+  </patternWinLoose>
+  <ema26>22.12315157253452</ema26>
+  <ema12>48.53287853060939</ema12>
+  <ema9>10.279594162811886</ema9>
+</com.rami.driverspecifics.Asset>
